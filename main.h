@@ -1,0 +1,2 @@
+#define MAX_COMMAND_LEN 1024
+#define MAX_ARGS 100
